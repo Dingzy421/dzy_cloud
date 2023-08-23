@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ruoyi</groupId>
-    <artifactId>ruoyi</artifactId>
+    <artifactId>dzy</artifactId>
     <version>3.6.3</version>
 
     <name>ruoyi</name>
@@ -210,12 +210,11 @@
     </dependencyManagement>
 
     <modules>
-        <module>ruoyi-auth</module>
-        <module>ruoyi-gateway</module>
-        <module>ruoyi-visual</module>
-        <module>ruoyi-modules</module>
-        <module>ruoyi-api</module>
-        <module>ruoyi-common</module>
+        <module>dzy-auth</module>
+        <module>dzy-gateway</module>
+        <module>dzy-modules</module>
+        <module>dzy-api</module>
+        <module>dzy-common</module>
     </modules>
     <packaging>pom</packaging>
 
